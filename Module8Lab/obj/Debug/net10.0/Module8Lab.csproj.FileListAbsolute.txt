@@ -1,0 +1,15 @@
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\bin\Debug\net10.0\Module8Lab.exe
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\bin\Debug\net10.0\Module8Lab.deps.json
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\bin\Debug\net10.0\Module8Lab.runtimeconfig.json
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\bin\Debug\net10.0\Module8Lab.dll
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\bin\Debug\net10.0\Module8Lab.pdb
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.AssemblyInfoInputs.cache
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.AssemblyInfo.cs
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.csproj.CoreCompileInputs.cache
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.sourcelink.json
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.dll
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\refint\Module8Lab.dll
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.pdb
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\Module8Lab.genruntimeconfig.cache
+C:\Users\alivi_98pvl\OneDrive - Minnesota State\4-Itec 2505\2505Module8Lab\Module8Lab\obj\Debug\net10.0\ref\Module8Lab.dll

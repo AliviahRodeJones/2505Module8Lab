@@ -8,10 +8,10 @@ class Pokemon
 {
     public int ID { get; set; }
     public string? Name { get; set; }
-    public string? Nickname { get; set; }
     public string? Type { get; set; }
     public int Level { get; set; }
     public int Attack { get; set; }
+    // The base attack stat for this pokemon.
 }
 // Describes the Pokemon class. 
 

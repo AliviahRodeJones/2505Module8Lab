@@ -70,28 +70,33 @@ class PokemonLINQLab
 
         // Module 8 coding Challenge
         Console.WriteLine("\n_________________________________\nCoding Challenge");
+
         // Query 1: LINQ Query that queries a list of pokemon with an attack of 50 or higher.
         var strongPokemon = (from p in pokemons
                             where p.Attack >= 50
                             select p).ToList();
+                            // ToList stores the result in a list. 
         
         // Query 2: This Query sorts the pokemon in strongPokemon by name (alphabetical order).
         var sortStrongByName = (from p in strongPokemon
                                 orderby p.Name
                                 select p).ToList();
+                                // ToList stores the result in a list. 
         
         // Displays the data returned from the sortStrongByName query
         Console.WriteLine("\nStrong Pokemon Sorted: ");
         foreach (var p in sortStrongByName)
         {
-            Console.WriteLine($"Name: {p.Name}, Type: {p.Type}, Attack: {p.Attack}");
             // Displays the name, type, and attack attributes. 
+            Console.WriteLine($"Name: {p.Name}, Type: {p.Type}, Attack: {p.Attack}");
+            
         }
 
         // Query 3: This query sorts the water type pokemon by level
         var sortedWaterType = (from p in waterTypePokemon
-                               orderby p.Level
+                               orderby p.Level descending
                                select p).ToList();
+                               // ToList stores the results in a list. 
         
         // Displays the data returned from the sortedWaterType query
         Console.WriteLine("\nWater Type Pokemon Sorted by Level: ");
